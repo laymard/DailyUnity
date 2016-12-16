@@ -3,7 +3,6 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
-
     private Transform p_transform;
     public Camera p_camera;
 
